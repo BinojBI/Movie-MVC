@@ -1,0 +1,11 @@
+C:\Users\Binoj\source\repos\MoveMvc1\MoveMvc1\bin\Debug\netcoreapp2.0\MoveMvc1.deps.json
+C:\Users\Binoj\source\repos\MoveMvc1\MoveMvc1\bin\Debug\netcoreapp2.0\MoveMvc1.runtimeconfig.json
+C:\Users\Binoj\source\repos\MoveMvc1\MoveMvc1\bin\Debug\netcoreapp2.0\MoveMvc1.runtimeconfig.dev.json
+C:\Users\Binoj\source\repos\MoveMvc1\MoveMvc1\bin\Debug\netcoreapp2.0\MoveMvc1.dll
+C:\Users\Binoj\source\repos\MoveMvc1\MoveMvc1\bin\Debug\netcoreapp2.0\MoveMvc1.pdb
+C:\Users\Binoj\source\repos\MoveMvc1\MoveMvc1\obj\Debug\netcoreapp2.0\MoveMvc1.csproj.CoreCompileInputs.cache
+C:\Users\Binoj\source\repos\MoveMvc1\MoveMvc1\obj\Debug\netcoreapp2.0\MoveMvc1.AssemblyInfoInputs.cache
+C:\Users\Binoj\source\repos\MoveMvc1\MoveMvc1\obj\Debug\netcoreapp2.0\MoveMvc1.AssemblyInfo.cs
+C:\Users\Binoj\source\repos\MoveMvc1\MoveMvc1\obj\Debug\netcoreapp2.0\MoveMvc1.dll
+C:\Users\Binoj\source\repos\MoveMvc1\MoveMvc1\obj\Debug\netcoreapp2.0\MoveMvc1.pdb
+C:\Users\Binoj\source\repos\MoveMvc1\MoveMvc1\obj\Debug\netcoreapp2.0\MoveMvc1.csprojAssemblyReference.cache
