@@ -14,7 +14,7 @@ namespace MoveMvc1.Controllers
         // 
         // GET: /HelloWorld/
 
-        public string Index()
+        public IActionResult Index()
         {
             return View();
         }
